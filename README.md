@@ -1,5 +1,5 @@
 # MyMovie
-MyMovie is application for testing purposes. Every 3rd party library or custom made components used in this project is purely for personal usage.
+MyMovie is application for testing purposes. Every 3rd party library or custom made component used in this project is purely for personal usage.
 
 # Used 3rd party Components
 - Glide - Used to cache images in order to display them in offline mode and improve overall performance and quality of image processing/caching.
