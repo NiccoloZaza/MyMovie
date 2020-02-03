@@ -1,0 +1,2 @@
+include ':app', ':glib', ':networklib'
+rootProject.name='MyMovie'

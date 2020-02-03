@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="popular_movies">Popular</string>
+    <string name="top_rated_movies">Top Rated</string>
+    <string name="movies">Movies</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_internet">Connection Could Not Be Established</string>
+    <string name="connection_established">Connection Established</string>
+    <string name="no_data">Movies Could Not Be Found</string>
+</resources>
